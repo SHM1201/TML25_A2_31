@@ -1,11 +1,11 @@
 # Model Stealing Assignment 2 Submission
 
-This repository contains the code and notebook for the Trustworthy Machine Learning Assignment 2: Model Stealing.
+This repository contains the code and report for the Trustworthy Machine Learning Assignment 2: Model Stealing.
 
 ## Files
 - `a2.ipynb`: Main Jupyter notebook for the assignment, including all steps from data loading to model submission.
 - `notebook_submission_assignment2.py`: Python script version of the notebook, following the format of `example_submission_assignment2.py`.
-
+- `Model_Stealing_Report.pdf`: Report describing the implementation and methodology used.
 
 ## Workflow
 1. **Dataset Loading**: Load the provided dataset and apply normalization transforms.
