@@ -5,11 +5,6 @@ This repository contains the code and notebook for the Trustworthy Machine Learn
 ## Files
 - `a2.ipynb`: Main Jupyter notebook for the assignment, including all steps from data loading to model submission.
 - `notebook_submission_assignment2.py`: Python script version of the notebook, following the format of `example_submission_assignment2.py`.
-- `ModelStealingPub.pt`: Provided dataset file.
-- `outv1.pickle`: Data with labels from the victim model (raw API output, including IDs, images, and labels/representations).
-- `augmented_outv1.pickle`: Augmented version of `outv1.pickle` (includes additional data generated via augmentation techniques).
-- `stolen_model.pth`: Stolen model saved in PyTorch format (trained on the victim representations).
-- `stolen_model.onnx`: Stolen model exported in ONNX format (for submission and validation).
 
 
 ## Workflow
