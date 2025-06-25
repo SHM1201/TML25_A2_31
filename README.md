@@ -5,6 +5,8 @@ This repository contains the code and report for the Trustworthy Machine Learnin
 ## Files
 - `a2.ipynb`: Main Jupyter notebook for the assignment, including all steps from data loading to model submission.
 - `notebook_submission_assignment2.py`: Python script version of the notebook, following the format of `example_submission_assignment2.py`.
+- `stolen_model.pth`: Stolen model saved in PyTorch format (trained on the victim representations).
+- `stolen_model.onnx`: Stolen model exported in ONNX format (for submission and validation).
 - `Model_Stealing_Report.pdf`: Report describing the implementation and methodology used.
 
 ## Workflow
